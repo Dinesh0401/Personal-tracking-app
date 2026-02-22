@@ -55,7 +55,7 @@ Deno.serve(async (req) => {
         weekly_score: 0,
         error: error instanceof Error ? error.message : String(error)
       },
-      { status: 200 }
+      { status: 500 }
     );
   }
 });
