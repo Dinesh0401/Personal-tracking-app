@@ -1,11 +1,5 @@
 # Personal Tracking App (Expo + Supabase)
 
-AI-powered execution tracker with:
-- Daily XP for DSA + AI learning + output commits
-- Forest discipline system (healthy vs dry days)
-- Weekly AI report via Supabase Edge Function
-- Communication lab feedback prototype
-
 ## Setup
 
 1. Install dependencies
