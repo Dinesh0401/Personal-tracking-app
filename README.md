@@ -1,6 +1,6 @@
-# Personal Tracking App (Expo + Supabase)
+# Personal Tracking App 
 
-## Setup
+# Setup
 
 1. Install dependencies
 ```bash
