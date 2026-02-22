@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Personal Tracking App",
+    "slug": "personal-tracking-app",
+    "scheme": "personaltracking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-av"],
+    "extra": {
+      "supabaseUrl": "${EXPO_PUBLIC_SUPABASE_URL}",
+      "supabaseAnonKey": "${EXPO_PUBLIC_SUPABASE_ANON_KEY}"
+    }
+  }
+}
